@@ -16,8 +16,8 @@ Bu uygulamamızda Diziler ile Döngüleri Bir arada kullanmayı ve dizi metotlar
 Bu uygulamamızda Diziler ile Foreach Döngü yapısını Bir arada kullanmayı öğrendim.Foreach Döngü Yapısını Örnek Sınav Sistemi Uygulaması ile pekiştirdim.💫
 # 📍8.Proje: Metotlar(Methods)
 Methotlar Belirli İşlemleri Sürekli tekrarlayıp yazmamak için kullandığımız bir yapıdır. Metotlar bir veya daha fazla parametre alabilir, bir değer döndürebilir veya belirli bir işi gerçekleştirebilirler.Bu öğrendiğim metotlar ile uygulamalarımda karmaşık kod bloklarının altından kolayca kalkabileceğimi öğrendim.
-# 📍8.Proje: Database 
+# 📍9.Proje: Database 
 Bu uygulamamızda Database üzerinden oluştuduğumuz tablolardaki verileri Select işlemi ile ekrana getirdik.VeriTabanının Bilgilerin saklandığı ya da depolandığı alan olduğunu öğrendim.💻
 
 
-Genel Anlamda Bu projeler sayesinde Kendimi C# dilinde geliştime fırsatı buldum.İlerleyen Derslerde Kendimi Daha fazla geliştirip,Daha Büyük Projeler geliştirmek İstiyorum.Hocamıza Teşekkür ediyorum.😊
+- Genel Anlamda Bu projeler sayesinde Kendimi C# dilinde geliştime fırsatı buldum.İlerleyen Derslerde Kendimi Daha fazla geliştirip,Daha Büyük Projeler geliştirmek İstiyorum.Hocamıza Teşekkür ediyorum.😊
