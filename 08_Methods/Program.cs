@@ -138,11 +138,11 @@ namespace _08_Methods
                 int result = (exam1 + exam2 + exam3) / 3;
                 if (result >= 50)
                 {
-                    return student + "isimli öğrenci Sınavı Geçti :)" + "Ortalama:" + result;
+                    return student + " isimli öğrenci Sınavı Geçti :)" + " Ortalama:" + result;
                 }
                 else
                 {
-                    return student + "isimli öğrenci Sınavdan Kaldı :(" + "Ortalama:" + result;
+                    return student + " isimli öğrenci Sınavdan Kaldı :(" + " Ortalama:" + result;
                 }
             }
             Console.WriteLine(ExamResult("Ali", 25, 41, 85));
