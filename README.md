@@ -1,1 +1,1 @@
-💻 # C# EĞİTİM KAMPI PROJELERİ
+# 💻 C# EĞİTİM KAMPI PROJELERİ
