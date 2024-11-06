@@ -167,7 +167,7 @@ namespace _03_MakingDecision
 
             #region Örnek Proje Uygulaması
 
-            //Console.WriteLine("****** C# Eğirim Kampı Restoran ******");
+            //Console.WriteLine("****** C# Eğitim Kampı Restoran ******");
             //Console.WriteLine();
             //Console.WriteLine("--------------------------------------");
             //Console.WriteLine("1-Ana Yemekler");

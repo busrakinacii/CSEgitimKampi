@@ -139,10 +139,6 @@ namespace _07_ForeachLoop
             }
 
 
-            //Öğrencilerin ortalaması ve Geçip Kalma Durumları
-
-
-
             #endregion
             Console.Read();
         }
