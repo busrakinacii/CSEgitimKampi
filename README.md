@@ -18,6 +18,7 @@ Bu uygulamamızda Diziler ile Foreach Döngü yapısını Bir arada kullanmayı 
 Methotlar Belirli İşlemleri Sürekli tekrarlayıp yazmamak için kullandığımız bir yapıdır. Metotlar bir veya daha fazla parametre alabilir, bir değer döndürebilir veya belirli bir işi gerçekleştirebilirler.Bu öğrendiğim metotlar ile uygulamalarımda karmaşık kod bloklarının altından kolayca kalkabileceğimi öğrendim.
 # 📍9.Proje: Database 
 Bu uygulamamızda Database üzerinden oluştuduğumuz tablolardaki verileri Select işlemi ile ekrana getirdik.VeriTabanının Bilgilerin saklandığı ya da depolandığı alan olduğunu öğrendim.💻
-
+# 📍9.Proje: Database Crud İşlemleri 
+ CRUD, dört temel veritabanı işlemi olan "Oluşturma, Okuma, Güncelleştirme ve Silme" anlamına gelir. Database üzerinden oluştuduğumuz tablolardaki verileri Select(Seçme),Update(Güncelleme),Delete(Silme) komutları ile ilgili Ele Aldık.🌍
 
 - Genel Anlamda Bu projeler sayesinde Kendimi C# dilinde geliştime fırsatı buldum.İlerleyen Derslerde Kendimi Daha fazla geliştirip,Daha Büyük Projeler geliştirmek İstiyorum.Hocamıza Teşekkür ediyorum.😊
